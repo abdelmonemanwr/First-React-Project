@@ -8,7 +8,8 @@
 #### ![react-day2_3](https://github.com/abdelmonemanwr/First-React-Project/assets/75037589/68d6de77-708a-44ae-a893-a8601eb90666)
 
 ### (3) Deleting one student
-#### ![Uploading react-day2_4.png…]()
+#### ![react-day2_4](https://github.com/abdelmonemanwr/First-React-Project/assets/75037589/d34f47f7-1543-4987-b71f-d70fcaaf673f)
+
 
 ### (4) Form Validations
 #### ![react-day2_5](https://github.com/abdelmonemanwr/First-React-Project/assets/75037589/0a29434e-1fe2-4419-9b24-55662df2cdc9)
